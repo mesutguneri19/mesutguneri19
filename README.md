@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/mithrandelx" target="blank"><img src="https://img.shields.io/twitter/follow/mithrandelx?logo=twitter&style=for-the-badge" alt="mithrandelx" /></a> </p>
 
+- 🌱 I’m currently learning **Java Script, Node.js, CSS, HTML**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mithrandelx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mithrandelx" height="30" width="40" /></a>
